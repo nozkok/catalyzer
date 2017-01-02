@@ -9,7 +9,7 @@
         {
             "name": "Gokhan Guney",
             "email": "gokhanguneygg@gmail.com",
-            "homepage": "http://gguney.com",
+            "homepage": "http://gguney.com"
         }
     ],
     "require": {
@@ -19,6 +19,7 @@
         "psr-4": {
             "Catalyzer\\": "src/Catalyzer"
         }
+    }
 }
 
 
