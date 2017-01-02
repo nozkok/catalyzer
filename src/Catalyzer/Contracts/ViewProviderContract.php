@@ -1,5 +1,5 @@
 <?php
-namespace App\Catalyzer\Contracts;
+namespace Catalyzer\Contracts;
 
 interface ViewProviderContract{
 	public static function provideIndexView( $urlParser, $dataModel, $items);

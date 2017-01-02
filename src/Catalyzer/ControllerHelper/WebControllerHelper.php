@@ -1,9 +1,9 @@
 <?php
-namespace App\Catalyzer\ControllerHelper;
+namespace Catalyzer\ControllerHelper;
 
-use App\Catalyzer\UrlParser;
-use App\Catalyzer\ControllerHelper\ControllerHelper;
-use App\Catalyzer\ViewProvider\WebViewProvider;
+use Catalyzer\UrlParser;
+use Catalyzer\ControllerHelper\ControllerHelper;
+use Catalyzer\ViewProvider\WebViewProvider;
 
 class WebControllerHelper extends ControllerHelper
 {

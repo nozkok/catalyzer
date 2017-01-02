@@ -1,7 +1,7 @@
 <?php 
-namespace App\Catalyzer\Beautyfier;
+namespace Catalyzer\Beautyfier;
 
-use App\Catalyzer\Beautyfier\Beautyfier;
+use Catalyzer\Beautyfier\Beautyfier;
 
 class EnglishBeautyfier extends Beautyfier
 {

@@ -1,5 +1,5 @@
 <?php 
-namespace App\Catalyzer\Contracts;
+namespace Catalyzer\Contracts;
 
 interface BeautyfierContract{
 	public static function detectBeautyfier();

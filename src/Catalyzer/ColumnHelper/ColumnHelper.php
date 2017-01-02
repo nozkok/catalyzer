@@ -1,8 +1,8 @@
 <?php
-namespace App\Catalyzer\ColumnHelper;
+namespace Catalyzer\ColumnHelper;
 
-use App\Catalyzer\Contracts\ColumnHelperContract;
-use App\Catalyzer\Beautyfier\Beautyfier;
+use Catalyzer\Contracts\ColumnHelperContract;
+use Catalyzer\Beautyfier\Beautyfier;
 
 abstract class ColumnHelper implements ColumnHelperContract{
 	

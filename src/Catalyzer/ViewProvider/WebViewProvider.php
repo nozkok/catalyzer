@@ -1,6 +1,6 @@
 <?php
-namespace App\Catalyzer\ViewProvider;
-use App\Catalyzer\Contracts\ViewProviderContract;
+namespace Catalyzer\ViewProvider;
+use Catalyzer\Contracts\ViewProviderContract;
 
 class WebViewProvider implements ViewProviderContract {
 

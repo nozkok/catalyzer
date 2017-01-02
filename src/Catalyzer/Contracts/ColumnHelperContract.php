@@ -1,5 +1,5 @@
 <?php 
-namespace App\Catalyzer\Contracts;
+namespace Catalyzer\Contracts;
 
 interface ColumnHelperContract{
 	public static function detectColumnHelper();

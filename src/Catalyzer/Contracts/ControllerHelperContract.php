@@ -1,5 +1,5 @@
 <?php 
-namespace App\Catalyzer\Contracts;
+namespace Catalyzer\Contracts;
 
 interface ControllerHelperContract{
 	public function getIndex();

@@ -1,9 +1,9 @@
 <?php
-namespace App\Catalyzer\ColumnHelper;
+namespace Catalyzer\ColumnHelper;
 
 use Carbon\Carbon;
-use App\Catalyzer\Contracts\ColumnHelperContract;
-use App\Catalyzer\Beautyfier\Beautyfier;
+use Catalyzer\Contracts\ColumnHelperContract;
+use Catalyzer\Beautyfier\Beautyfier;
 
 class PgSqlColumnHelper extends ColumnHelper{
 

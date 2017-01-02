@@ -1,6 +1,6 @@
 <?php
-namespace App\Catalyzer\Beautyfier;
-use App\Catalyzer\Contracts\BeautyfierContract;
+namespace Catalyzer\Beautyfier;
+use Catalyzer\Contracts\BeautyfierContract;
 
 
 abstract class Beautyfier implements BeautyfierContract {

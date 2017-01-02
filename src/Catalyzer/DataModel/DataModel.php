@@ -1,10 +1,10 @@
 <?php 
 
-namespace App\Catalyzer\DataModel;
+namespace Catalyzer\DataModel;
 
-use App\Catalyzer\Contracts\DataModelContract;
-use App\Catalyzer\SuperCacheHelper;
-use App\Catalyzer\Beautyfier\Beautyfier;
+use Catalyzer\Contracts\DataModelContract;
+use Catalyzer\SuperCacheHelper;
+use Catalyzer\Beautyfier\Beautyfier;
 
 abstract class DataModel implements DataModelContract
 {

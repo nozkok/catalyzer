@@ -1,9 +1,9 @@
 <?php
-namespace App\Catalyzer\ControllerHelper;
+namespace Catalyzer\ControllerHelper;
 
-use App\Catalyzer\UrlParser;
-use App\Catalyzer\Contracts\ControllerHelperContract;
-use App\Catalyzer\ViewProvider\JSONViewProvider;
+use Catalyzer\UrlParser;
+use Catalyzer\Contracts\ControllerHelperContract;
+use Catalyzer\ViewProvider\JSONViewProvider;
 
 
 class JSONControllerHelper implements ControllerHelperContract{

@@ -1,8 +1,8 @@
 <?php
-namespace App\Catalyzer\ControllerHelper;
+namespace Catalyzer\ControllerHelper;
 
-use App\Catalyzer\UrlParser;
-use App\Catalyzer\ControllerHelper\ControllerHelper;
+use Catalyzer\UrlParser;
+use Catalyzer\ControllerHelper\ControllerHelper;
 
 
 class SimpleControllerHelper extends ControllerHelper{
