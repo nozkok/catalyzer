@@ -13,6 +13,7 @@
             "homepage": "http://gguney.com"
         }
     ],
+    "version":"1.0.0.0-stable",
     "require": {
         "php": "^5.6"
     },
