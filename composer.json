@@ -5,6 +5,7 @@
     "keywords": ["CRUD","Controller Helper"],
     "homepage": "https://github.com/gokhanguneygg/catalyzer",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Gokhan Guney",
