@@ -1,5 +1,5 @@
 {
-    "name": "gg/catalyzer",
+    "name": "gguney/catalyzer",
     "type": "library",
     "description": "Simple CRUD System Library",
     "keywords": ["CRUD","Controller Helper"],
