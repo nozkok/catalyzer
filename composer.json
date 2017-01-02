@@ -1,5 +1,5 @@
 {
-    "name": "gokgun/catalyzer",
+    "name": "gg/catalyzer",
     "type": "library",
     "description": "Simple CRUD System Library",
     "keywords": ["CRUD","Controller Helper"],
