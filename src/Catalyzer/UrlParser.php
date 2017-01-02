@@ -5,7 +5,6 @@ use Illuminate\Support\Str;
 
 use Catalyzer\Beautyfier\Beautyfier;
 
-
 class UrlParser
 {
     private $url;
