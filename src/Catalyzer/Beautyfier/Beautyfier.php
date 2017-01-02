@@ -3,6 +3,9 @@ namespace Catalyzer\Beautyfier;
 use Catalyzer\Contracts\BeautyfierContract;
 
 
+
+
+
 abstract class Beautyfier implements BeautyfierContract {
 
 	protected $RESERVED_ACTION_NAMES;
