@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Catalyzer;
+namespace Catalyzer;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
-use App\Http\Models\User;
-use App\Catalyzer\UrlParser;
-use App\Catalyzer\Beautyfier\Beautyfier;
+use Http\Models\User;
+use Catalyzer\UrlParser;
+use Catalyzer\Beautyfier\Beautyfier;
 use Carbon\Carbon;
 
 trait SuperModel 

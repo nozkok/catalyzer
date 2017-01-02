@@ -2,7 +2,7 @@
 namespace App\Catalyzer;
 
 use Illuminate\Support\Facades\Cache;
-use App\Catalyzer\ColumnHelper\ColumnHelper;
+use Catalyzer\ColumnHelper\ColumnHelper;
 
 class SuperCacheHelper{
 

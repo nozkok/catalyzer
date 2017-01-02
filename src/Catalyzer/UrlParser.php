@@ -1,9 +1,9 @@
 <?php 
-namespace App\Catalyzer;
+namespace Catalyzer;
 use Route;
 use Illuminate\Support\Str;
 
-use App\Catalyzer\Beautyfier\Beautyfier;
+use Catalyzer\Beautyfier\Beautyfier;
 
 
 class UrlParser

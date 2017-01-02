@@ -1,8 +1,8 @@
 <?php 
-namespace App\Catalyzer;
+namespace Catalyzer;
 
-use App\Catalyzer\ControllerHelper\WebControllerHelper;
-use App\Catalyzer\ControllerHelper\SimpleControllerHelper;
+use Catalyzer\ControllerHelper\WebControllerHelper;
+use Catalyzer\ControllerHelper\SimpleControllerHelper;
 
 trait CatalyzerTrait {
 	protected $controllerHelper;
