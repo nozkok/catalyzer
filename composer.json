@@ -1,0 +1,23 @@
+{
+    "name": "gokgun/catalyzer",
+    "type": "library",
+    "description": "Simple CRUD System Library",
+    "keywords": ["CRUD","Controller Helper"],
+    "homepage": "https://github.com/gokhanguneygg/catalyzer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gokhan Guney",
+            "email": "gokhanguneygg@gmail.com",
+            "homepage": "http://gguney.com",
+            "role": "Lead Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.*",
+    },
+    "autoload": {
+        "psr-0": {
+            "Catalyzer": "src"
+        }
+}
