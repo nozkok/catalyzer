@@ -1,3 +1,3 @@
-### 0.1.0-alpha1 (2017-01-02)
+### 1.0.0-RC1 (2017-01-02)
 
-  * Initial alpha release
+  * Initial release
