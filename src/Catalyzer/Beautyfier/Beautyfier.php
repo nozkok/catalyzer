@@ -5,7 +5,7 @@ use Catalyzer\Contracts\BeautyfierContract;
 
 abstract class Beautyfier implements BeautyfierContract {
 
-	protected $RESERVED_ACTION_NAMES;
+    protected $RESERVED_ACTION_NAMES;
     protected $MODELS_FOLDER;
     protected $DATA_MODELS_FOLDER;
     protected $SPECIAL_PLURALS;
@@ -15,9 +15,6 @@ abstract class Beautyfier implements BeautyfierContract {
 
         switch(config('app.language'))
         { 
-            case 'en':
-                $strBeautyfier = new EnglishBeautyfier();
-                break;
             case 'tr':
                 $strBeautyfier = new TurkishBeautyfier();
                 break;
